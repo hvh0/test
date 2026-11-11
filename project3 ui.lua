@@ -9,7 +9,7 @@ local Tick = tick()
 
 do 
 	-- 
-	writefile("tahoma.ttf", game:HttpGet("https://github.com/356725/7/raw/main/tahoma.ttf"))
+	writefile("tahoma.ttf", game:HttpGet("https://github.com/hvh0/test/raw/main/tahoma.ttf"))
 	-- 
 	local tahoma = {
 		name = "SmallestPixel7",
